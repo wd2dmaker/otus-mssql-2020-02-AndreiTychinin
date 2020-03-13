@@ -1,0 +1,1 @@
+SELECT * FROM Warehouse.StockItems WHERE StockItemName like '%urgent%' OR StockItemName like 'Animal%'
